@@ -1,0 +1,15 @@
+D:\mydotnetproject\interviewquestions\InterviewQuestions\bin\Debug\net5.0\InterviewQuestions.exe
+D:\mydotnetproject\interviewquestions\InterviewQuestions\bin\Debug\net5.0\InterviewQuestions.deps.json
+D:\mydotnetproject\interviewquestions\InterviewQuestions\bin\Debug\net5.0\InterviewQuestions.runtimeconfig.json
+D:\mydotnetproject\interviewquestions\InterviewQuestions\bin\Debug\net5.0\InterviewQuestions.runtimeconfig.dev.json
+D:\mydotnetproject\interviewquestions\InterviewQuestions\bin\Debug\net5.0\InterviewQuestions.dll
+D:\mydotnetproject\interviewquestions\InterviewQuestions\bin\Debug\net5.0\ref\InterviewQuestions.dll
+D:\mydotnetproject\interviewquestions\InterviewQuestions\bin\Debug\net5.0\InterviewQuestions.pdb
+D:\mydotnetproject\interviewquestions\InterviewQuestions\obj\Debug\net5.0\InterviewQuestions.GeneratedMSBuildEditorConfig.editorconfig
+D:\mydotnetproject\interviewquestions\InterviewQuestions\obj\Debug\net5.0\InterviewQuestions.AssemblyInfoInputs.cache
+D:\mydotnetproject\interviewquestions\InterviewQuestions\obj\Debug\net5.0\InterviewQuestions.AssemblyInfo.cs
+D:\mydotnetproject\interviewquestions\InterviewQuestions\obj\Debug\net5.0\InterviewQuestions.csproj.CoreCompileInputs.cache
+D:\mydotnetproject\interviewquestions\InterviewQuestions\obj\Debug\net5.0\InterviewQuestions.dll
+D:\mydotnetproject\interviewquestions\InterviewQuestions\obj\Debug\net5.0\ref\InterviewQuestions.dll
+D:\mydotnetproject\interviewquestions\InterviewQuestions\obj\Debug\net5.0\InterviewQuestions.pdb
+D:\mydotnetproject\interviewquestions\InterviewQuestions\obj\Debug\net5.0\InterviewQuestions.genruntimeconfig.cache
